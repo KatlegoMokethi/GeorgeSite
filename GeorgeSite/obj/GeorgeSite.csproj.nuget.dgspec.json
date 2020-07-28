@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Melusi Mgwenya\\source\\repos\\MELXX\\GeorgeSite\\GeorgeSite\\GeorgeSite.csproj": {}
+    "C:\\Users\\KKW MOKHETHI\\Documents\\Code\\Projects\\Collaborations\\M Mgwenya\\GeorgeSite\\GeorgeSite\\GeorgeSite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Melusi Mgwenya\\source\\repos\\MELXX\\GeorgeSite\\GeorgeSite\\GeorgeSite.csproj": {
+    "C:\\Users\\KKW MOKHETHI\\Documents\\Code\\Projects\\Collaborations\\M Mgwenya\\GeorgeSite\\GeorgeSite\\GeorgeSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Melusi Mgwenya\\source\\repos\\MELXX\\GeorgeSite\\GeorgeSite\\GeorgeSite.csproj",
+        "projectUniqueName": "C:\\Users\\KKW MOKHETHI\\Documents\\Code\\Projects\\Collaborations\\M Mgwenya\\GeorgeSite\\GeorgeSite\\GeorgeSite.csproj",
         "projectName": "GeorgeSite",
-        "projectPath": "C:\\Users\\Melusi Mgwenya\\source\\repos\\MELXX\\GeorgeSite\\GeorgeSite\\GeorgeSite.csproj",
-        "packagesPath": "C:\\Users\\Melusi Mgwenya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Melusi Mgwenya\\source\\repos\\MELXX\\GeorgeSite\\GeorgeSite\\obj\\",
+        "projectPath": "C:\\Users\\KKW MOKHETHI\\Documents\\Code\\Projects\\Collaborations\\M Mgwenya\\GeorgeSite\\GeorgeSite\\GeorgeSite.csproj",
+        "packagesPath": "C:\\Users\\KKW MOKHETHI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KKW MOKHETHI\\Documents\\Code\\Projects\\Collaborations\\M Mgwenya\\GeorgeSite\\GeorgeSite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Melusi Mgwenya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KKW MOKHETHI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -104,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
